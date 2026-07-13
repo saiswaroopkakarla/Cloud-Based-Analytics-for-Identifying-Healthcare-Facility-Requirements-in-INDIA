@@ -172,7 +172,7 @@ Queries population, senior citizen count, govt hospitals, beds per lakh for 7 NE
 | Beds per lakh — J&K | 90 |
 | Govt beds per lakh — Tamil Nadu | 107 |
 | Districts with worst toilet access | Bihar (Saharsa: 390,897 without toilets) |
-| Cross-4-table JOIN verified | ✅ (Problem 19) |
+| Cross-4-table JOIN verified |  (Problem 19) |
 | Trigger events logged | 4 hospital + 4 bed events (Andhra Pradesh test) |
 
 ---
